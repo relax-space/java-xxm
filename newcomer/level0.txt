@@ -1,0 +1,8 @@
+在w3c上自行学习
+https://www.w3cschool.cn/java/java-tutorial.html
+
+主线任务：
+1.变量,基础语法,字符串占位符
+2.数据类型转换
+3.数组和集合,流程控制(if、for)
+4.对象
